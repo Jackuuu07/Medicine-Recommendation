@@ -1,0 +1,11 @@
+---> total 133 column
+---> supervise learning problem - two type -> regression/classify
+---> its classification/41 diseas
+---> multiclassification
+---> each column represent symptoms
+
+
+---> train test split ->> possible from sklearn test_train_split
+
+--> training top models --> top 5 classification will be train --> if result will be good --> it got selected
+--> svc --> linear and non linear --> create hypre plane draw kare b/w two classes -->our data is linear 
